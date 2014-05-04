@@ -1,7 +1,7 @@
 prism-react
 ===========
 
-Prism Highlighting using React
+[Prism Highlighting](http://prismjs.com/) using React
 
 
 Usage
